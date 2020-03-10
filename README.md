@@ -1,3 +1,5 @@
+# 前后端分离项目的前端部分
+   还有 local-server , linux-server两个项目， 另外还有个用于测试的web项目，随便写个都可以，就没有上传上来
 # demo
 
 > A Vue.js project
