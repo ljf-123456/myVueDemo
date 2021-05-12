@@ -18,7 +18,7 @@
     "echarts": "^4.5.0",
     "goeasy": "^1.0.3",
     "iview": "^3.5.4",
-    "mathjs": "^6.3.0",
+    "mathjs": "^7.5.1",
     "view-design": "^4.0.2",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
